@@ -1,0 +1,12 @@
+__pycache__/
+*.py[oc]
+.venv
+node_modules/
+.env
+.idea/
+.vs/
+local.properties
+*.iml
+/build
+.cxx
+*:Zone.Identifier
